@@ -1,0 +1,25 @@
+{
+    "name": "Group project",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "FNF VS SPACE": "github:gamemaker5000/fnf-vs-space#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
